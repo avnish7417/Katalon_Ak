@@ -6,6 +6,7 @@
    <UUID>3c0cc9c7-e053-40a8-9305-505d13ec1023</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>D:\Katalon\Katalon_Web.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
