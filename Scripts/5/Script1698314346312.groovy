@@ -19,33 +19,22 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-CustomKeywords.'example.MyKeywords.AppLogin'()
+WebUI.navigateToUrl('https://www.lambdatest.com/selenium-playground/')
 
-for (def n : (0..2)) {
-    WebUI.selectOptionByIndex(findTestObject('object/Page_CURA Healthcare Service/ddHealthcareCentre'), 1)
+WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/a_Auto Healing'))
 
-    WebUI.click(findTestObject('object/Page_CURA Healthcare Service/cbReadmission'))
+WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/form_UsernamePasswordSubmitChange DOM ID'))
 
-    if (n == 0) {
-        WebUI.click(findTestObject('object/Page_CURA Healthcare Service/cbMedicare'))
-    } else if (n == 1) {
-        WebUI.click(findTestObject('object/Page_CURA Healthcare Service/cbMedicaid'))
-    } else {
-        WebUI.click(findTestObject('object/Page_CURA Healthcare Service/cbNone'))
-    }
-    
-    WebUI.setText(findTestObject('object/Page_CURA Healthcare Service/txtVisitDate'), '02/09/2022')
+WebUI.setText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Username_name'), 
+    'Avnish')
 
-    WebUI.setText(findTestObject('object/Page_CURA Healthcare Service/textAreaComment'), 'I will type the comment here')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Password_password'), 
+    'OHe3A2drNYu/0NnobE0ycQ==')
 
-    WebUI.click(findTestObject('object/Page_CURA Healthcare Service/btnBookAppointment'))
+WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/button_Submit'))
 
-    WebUI.verifyElementPresent(findTestObject('object/Page_CURA Healthcare Service/h2Appointment Confirmation'), 2)
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/p_Login Successful'), 
+    'Login Successful')
 
-    WebUI.click(findTestObject('object/Page_CURA Healthcare Service/btnGotoHomepage'))
-
-    CustomKeywords.'example.MyKeywords.Congrats'('')
-}
-
-WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
+WebUI.closeBrowser()
 

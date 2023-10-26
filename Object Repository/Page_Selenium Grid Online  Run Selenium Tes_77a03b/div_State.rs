@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_State</name>
+   <tag></tag>
+   <elementGuidId>983e00e1-d399-45cd-bd88-061a428ac4ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='seleniumform']/div[5]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>efc286f0-3d58-4424-b762-f823b4896236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-group w-6/12 smtablet:w-full pr-20 smtablet:pr-0</value>
+      <webElementGuid>75aa1773-8de0-44c7-a0bc-6ef727f97765</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>State*</value>
+      <webElementGuid>2617cb99-749a-451f-9d9f-ee63a36ce852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seleniumform&quot;)/div[@class=&quot;flex smtablet:block mt-20&quot;]/div[@class=&quot;form-group w-6/12 smtablet:w-full pr-20 smtablet:pr-0&quot;]</value>
+      <webElementGuid>c60848d7-df8b-455f-ac6f-56764e1471e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='seleniumform']/div[5]/div</value>
+      <webElementGuid>6266b4a1-a2e9-4478-a53f-fdf147ec1795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address*'])[2]/following::div[2]</value>
+      <webElementGuid>8f5e4d96-fc4b-40e3-96a1-a6ba12b43d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address*'])[1]/following::div[3]</value>
+      <webElementGuid>61d774d0-60b9-49d8-b645-b148101c48b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zip Code*'])[1]/preceding::div[1]</value>
+      <webElementGuid>a64b6ae4-1566-48fd-afba-5272b83d2936</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[5]/div</value>
+      <webElementGuid>154b3704-d1a2-43a5-aeba-29e9826de26d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'State*' or . = 'State*')]</value>
+      <webElementGuid>91b44b99-5b5d-432f-a997-2689ba174f04</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

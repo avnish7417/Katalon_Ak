@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Autoclosable Info Message</name>
+   <tag></tag>
+   <elementGuidId>d555c9ed-0dbe-4be1-8dca-2cdefdd6a33d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6ee80f7b-1916-415e-9565-d74072c470d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>19edfebc-5dfa-40ad-961e-a23d2ca8fe13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block w-full py-8 mb-8 btn btn-info btn-info-auto bg-blue-20 text-white border border-blue-20 transition duration-300 hover:bg-white hover:text-blue-20 focus:outline-none rounded</value>
+      <webElementGuid>eb89daa3-736f-4583-9f63-92de7cf23f39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Autoclosable Info Message</value>
+      <webElementGuid>5f667bff-c763-4b44-b44b-874b1382c8d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;mt-50&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex smtablet:block&quot;]/div[@class=&quot;w-full px-15&quot;]/div[@class=&quot;flex mt-20&quot;]/div[@class=&quot;w-6/12&quot;]/button[@class=&quot;block w-full py-8 mb-8 btn btn-info btn-info-auto bg-blue-20 text-white border border-blue-20 transition duration-300 hover:bg-white hover:text-blue-20 focus:outline-none rounded&quot;]</value>
+      <webElementGuid>9cf385f4-3fd3-4566-85df-67928fb79087</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>e83415e5-1d80-4643-b52e-20073cbb859a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section[3]/div/div/div/div/div/button[3]</value>
+      <webElementGuid>de248d3e-54b8-4546-a1ef-f9a137c47b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Normal Success Message'])[1]/following::button[1]</value>
+      <webElementGuid>cce7deb7-0b59-4724-bc29-70164f4ffed0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autoclosable Success Message'])[1]/following::button[2]</value>
+      <webElementGuid>68a5de18-bd1c-41ea-b4a9-802d5e05adc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Normal Info Message'])[1]/preceding::button[1]</value>
+      <webElementGuid>3b7e92b6-dc7e-4038-b55d-32a64b15f4f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Autoclosable Info Message']/parent::*</value>
+      <webElementGuid>bc18fcb0-65fd-4777-850a-009089ab13f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>ad010f36-8aa8-4eeb-a198-982f478ddd04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Autoclosable Info Message' or . = 'Autoclosable Info Message')]</value>
+      <webElementGuid>57437226-7b25-4064-b1e2-a6854021a63d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

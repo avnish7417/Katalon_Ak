@@ -19,33 +19,21 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-CustomKeywords.'example.MyKeywords.AppLogin'()
+WebUI.navigateToUrl('https://www.lambdatest.com/selenium-playground/')
 
-for (def n : (0..2)) {
-    WebUI.selectOptionByIndex(findTestObject('object/Page_CURA Healthcare Service/ddHealthcareCentre'), 1)
+WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/a_Key Press'))
 
-    WebUI.click(findTestObject('object/Page_CURA Healthcare Service/cbReadmission'))
+WebUI.setText(findTestObject('Object Repository/Page_Selenium Playground  LambdaTest/input_Key Press_my_field'), 'a')
 
-    if (n == 0) {
-        WebUI.click(findTestObject('object/Page_CURA Healthcare Service/cbMedicare'))
-    } else if (n == 1) {
-        WebUI.click(findTestObject('object/Page_CURA Healthcare Service/cbMedicaid'))
-    } else {
-        WebUI.click(findTestObject('object/Page_CURA Healthcare Service/cbNone'))
-    }
-    
-    WebUI.setText(findTestObject('object/Page_CURA Healthcare Service/txtVisitDate'), '02/09/2022')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Selenium Playground  LambdaTest/p_You entered A'), 'You entered: A')
 
-    WebUI.setText(findTestObject('object/Page_CURA Healthcare Service/textAreaComment'), 'I will type the comment here')
+WebUI.setText(findTestObject('Object Repository/Page_Selenium Playground  LambdaTest/input_Key Press_my_field'), 'b')
 
-    WebUI.click(findTestObject('object/Page_CURA Healthcare Service/btnBookAppointment'))
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Selenium Playground  LambdaTest/p_You entered B'), 'You entered: B')
 
-    WebUI.verifyElementPresent(findTestObject('object/Page_CURA Healthcare Service/h2Appointment Confirmation'), 2)
+WebUI.setText(findTestObject('Object Repository/Page_Selenium Playground  LambdaTest/input_Key Press_my_field'), 'c')
 
-    WebUI.click(findTestObject('object/Page_CURA Healthcare Service/btnGotoHomepage'))
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Selenium Playground  LambdaTest/p_You entered C'), 'You entered: C')
 
-    CustomKeywords.'example.MyKeywords.Congrats'('')
-}
-
-WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
+WebUI.closeBrowser()
 

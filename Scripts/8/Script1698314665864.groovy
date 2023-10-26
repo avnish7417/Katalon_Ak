@@ -19,33 +19,28 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-CustomKeywords.'example.MyKeywords.AppLogin'()
+WebUI.navigateToUrl('https://www.lambdatest.com/selenium-playground/')
 
-for (def n : (0..2)) {
-    WebUI.selectOptionByIndex(findTestObject('object/Page_CURA Healthcare Service/ddHealthcareCentre'), 1)
+WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/a_Simple Form Demo'))
 
-    WebUI.click(findTestObject('object/Page_CURA Healthcare Service/cbReadmission'))
+WebUI.setText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Single Input Field_user-message'), 
+    'Avnish')
 
-    if (n == 0) {
-        WebUI.click(findTestObject('object/Page_CURA Healthcare Service/cbMedicare'))
-    } else if (n == 1) {
-        WebUI.click(findTestObject('object/Page_CURA Healthcare Service/cbMedicaid'))
-    } else {
-        WebUI.click(findTestObject('object/Page_CURA Healthcare Service/cbNone'))
-    }
-    
-    WebUI.setText(findTestObject('object/Page_CURA Healthcare Service/txtVisitDate'), '02/09/2022')
+WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/button_Get Checked Value'))
 
-    WebUI.setText(findTestObject('object/Page_CURA Healthcare Service/textAreaComment'), 'I will type the comment here')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/p_Avnish'), 
+    'Avnish')
 
-    WebUI.click(findTestObject('object/Page_CURA Healthcare Service/btnBookAppointment'))
+WebUI.setText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Two Input Fields_sum1'), 
+    'Avnish')
 
-    WebUI.verifyElementPresent(findTestObject('object/Page_CURA Healthcare Service/h2Appointment Confirmation'), 2)
+WebUI.setText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Two Input Fields_sum2'), 
+    'Kumar')
 
-    WebUI.click(findTestObject('object/Page_CURA Healthcare Service/btnGotoHomepage'))
+WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/button_Get Sum'))
 
-    CustomKeywords.'example.MyKeywords.Congrats'('')
-}
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/p_Entered value is not a number'), 
+    'Entered value is not a number')
 
-WebUI.closeBrowser(FailureHandling.STOP_ON_FAILURE)
+WebUI.closeBrowser()
 
