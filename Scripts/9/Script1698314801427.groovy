@@ -23,16 +23,18 @@ WebUI.navigateToUrl('https://www.lambdatest.com/selenium-playground/')
 
 WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/a_Input Form Submit'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Name_name'), 'Avnish')
+WebUI.setText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Name_name'), 'Avish')
 
 WebUI.setText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Email_email'), 
-    'avnish@')
+    'avnish@123.com')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Password_password'), 
-    'PX/7GSRavUA=')
+    'UTD7oNuqBaw=')
+
+WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/form_NameEmailPasswordCompanyWebsiteCountry_6196e3'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Company_company'), 
-    'binmile')
+    'dehradun')
 
 WebUI.setText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Website_website'), 
     'binmile')
@@ -45,21 +47,16 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Selenium Grid O
 WebUI.setText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_City_city'), 'dehradun')
 
 WebUI.setText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Address_address_line1'), 
-    'vikasnagar')
+    'dehradun')
 
 WebUI.setText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Address_address_line2'), 
-    'vkasnagar')
+    'vikasnagar')
 
 WebUI.setText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_State_inputState'), 
-    'uttrakhand')
+    'uttarakhand')
 
 WebUI.setText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Zip Code_zip'), 
-    '1234')
-
-WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/button_Submit'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Email_email'), 
-    'avnish@gm.com')
+    '12345')
 
 WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/button_Submit'))
 

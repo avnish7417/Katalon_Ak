@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>345534bc-2601-418d-aed2-75b9dc5a9439</webElementGuid>
+      <webElementGuid>d509f33e-a05b-4139-94d0-73aa0520fa01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>8814f023-2092-448c-b536-ccab475628ee</webElementGuid>
+      <webElementGuid>e3b47db7-3240-4c2b-bee3-4347029f1b1b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>block w-full border border-gray-90 text-size-14 rounded mt-10 px-10 py-5</value>
-      <webElementGuid>1d4481e6-f953-4319-b7a9-c798b10d1b57</webElementGuid>
+      <webElementGuid>497442c8-5e2c-4931-9685-53ba7160bb56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>inputZip</value>
-      <webElementGuid>4fdb38bf-c475-4afe-a5ff-8a160be5cfdb</webElementGuid>
+      <webElementGuid>7d6733a4-7cdf-4253-b022-8dbbae3705c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>zip</value>
-      <webElementGuid>607fdc34-2a9d-4bb1-a705-bdd0ada7e100</webElementGuid>
+      <webElementGuid>7a167f3c-8d25-499b-a4bc-fa53cd45b8b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Zip code</value>
-      <webElementGuid>da2ac617-8127-453b-b564-3da0ba0e98ba</webElementGuid>
+      <webElementGuid>33831f03-7553-4387-9465-b614362e4d5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;inputZip&quot;)</value>
-      <webElementGuid>d1fec055-c3d3-4bf5-8804-7c4378fb59bd</webElementGuid>
+      <webElementGuid>dc27823d-23eb-4366-959e-372994ec57f1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='inputZip']</value>
-      <webElementGuid>93387434-1aac-4aa0-8560-e2979540d582</webElementGuid>
+      <webElementGuid>25ce3073-1b50-4f6c-9317-da4ebb58db49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='seleniumform']/div[5]/div[2]/input</value>
-      <webElementGuid>0a37bccb-f55d-4abd-ae51-2ad5966eb6e5</webElementGuid>
+      <webElementGuid>9937a3ac-7ed6-443f-9d06-db9ad19c00e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div[2]/input</value>
-      <webElementGuid>3cbb9e38-eee6-4802-870b-f410eb88b803</webElementGuid>
+      <webElementGuid>ef61caa9-918b-4d6a-bcda-571070eda352</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'inputZip' and @name = 'zip' and @placeholder = 'Zip code']</value>
-      <webElementGuid>7691ef9d-193d-459b-8d73-5c94dedb6ce6</webElementGuid>
+      <webElementGuid>7f972473-5c6b-4f70-a1fd-63d892b69f56</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

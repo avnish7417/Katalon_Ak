@@ -23,13 +23,13 @@ WebUI.navigateToUrl('https://www.lambdatest.com/selenium-playground/')
 
 WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/a_Auto Healing'))
 
-WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/form_UsernamePasswordSubmitChange DOM ID'))
-
 WebUI.setText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Username_name'), 
     'Avnish')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Password_password'), 
-    'OHe3A2drNYu/0NnobE0ycQ==')
+WebUI.waitForElementVisible(findTestObject('Page_Selenium Grid Online  Run Selenium Tes_77a03b/input_Username_name'), 2)
+
+WebUI.setEncryptedText(findTestObject('object/Page_Selenium Grid Online  Run Selenium Test On Cloud/input_Password_password'), 
+    'YH95lU/pKaZr7Xkw3eKSdA==')
 
 WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/button_Submit'))
 
