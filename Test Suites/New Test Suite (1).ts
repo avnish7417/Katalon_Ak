@@ -15,21 +15,21 @@
       <guid>9576f42f-fdfb-4421-b97a-25f58a9a57ad</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/1</testCaseId>
+      <testCaseId>Test Cases/Test 1-10/1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>5c5f76d3-a52a-49dd-abd1-c428a0e76e67</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/2</testCaseId>
+      <testCaseId>Test Cases/Test 1-10/2</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>3f7e1d5b-7f92-408c-b577-dacc40f7f04c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/3</testCaseId>
+      <testCaseId>Test Cases/Test 1-10/3</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
