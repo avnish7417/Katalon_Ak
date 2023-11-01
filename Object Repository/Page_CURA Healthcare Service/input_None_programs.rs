@@ -6,12 +6,12 @@
    <elementGuidId>2dbe8394-13df-4672-b01d-dc83c2ba7560</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#radio_program_none</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='radio_program_none']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#radio_program_none</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>595d4da5-caa2-415b-aaf2-b83d0be68d8c</webElementGuid>
+      <webElementGuid>92950d1d-fb22-42e2-b623-5331208727bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>c8f51303-e07f-485b-ba3a-67e6f0015526</webElementGuid>
+      <webElementGuid>9504d07f-d847-4d7b-bf6f-31e4ea3efa4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>programs</value>
-      <webElementGuid>f5c272c5-0c1b-4933-ab43-393f8af7e9d1</webElementGuid>
+      <webElementGuid>eca23848-5fca-43d0-a403-097615f40520</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>radio_program_none</value>
-      <webElementGuid>c80e4d32-118d-4f43-addf-dfca134d9fb8</webElementGuid>
+      <webElementGuid>b65045d3-4608-467c-9e3e-cf0bc0dbc0d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>value</name>
       <type>Main</type>
       <value>None</value>
-      <webElementGuid>6f0f6312-4b8a-4f96-9349-a6818a3bda50</webElementGuid>
+      <webElementGuid>45f7c9b5-83ad-4584-954a-acb862fa7df1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;radio_program_none&quot;)</value>
-      <webElementGuid>337f009e-2f61-4de7-96fc-4d1e69271eb4</webElementGuid>
+      <webElementGuid>36c8a53b-bd72-4808-b63b-11e3fd61593c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='radio_program_none']</value>
-      <webElementGuid>ba9bf64c-1141-48e6-9f2b-3c05802ce603</webElementGuid>
+      <webElementGuid>ef2fe944-06cd-4b4a-a2ee-a34541d44313</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='appointment']/div/div/form/div[3]/div/label[3]/input</value>
-      <webElementGuid>382d5616-dacf-4e50-82f8-57240575508b</webElementGuid>
+      <webElementGuid>c33927b2-7caa-43ef-911a-66ae92998d43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label[3]/input</value>
-      <webElementGuid>5a233cf4-5a33-4b4c-8e88-664c5ab83c05</webElementGuid>
+      <webElementGuid>11690718-f77c-4705-8658-91092f478201</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'radio' and @name = 'programs' and @id = 'radio_program_none']</value>
-      <webElementGuid>0cd6e3d5-6105-4e70-8bc3-db9ac6667520</webElementGuid>
+      <webElementGuid>da1e4168-c150-4a5c-a067-d48db0994fbe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>a9710484-2311-421f-b115-a2394427eb71</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#txt-username</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='txt-username']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#txt-username</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1365a211-98e9-4e56-9e04-66e38442c6ef</webElementGuid>
+      <webElementGuid>95a7097e-2375-4f96-a2ad-e21a5515f725</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>9e0ee0df-a7e6-4e96-8078-30858bc8a15c</webElementGuid>
+      <webElementGuid>91c6077b-50c1-469b-ade3-13917dbaa740</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>f1482e4f-d10e-4869-9f2a-aa58320174a4</webElementGuid>
+      <webElementGuid>a1bd2de7-4d61-4caf-b79f-6d01fd54042f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>txt-username</value>
-      <webElementGuid>e5a170e8-f281-4f26-92fd-00efacb9aeba</webElementGuid>
+      <webElementGuid>bb52f2b9-ee0a-43e0-9426-f525fb1745fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>24f1ef44-3794-427c-b23f-20f106b78438</webElementGuid>
+      <webElementGuid>affc6883-526a-4749-bf3f-3a16f068c032</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Username</value>
-      <webElementGuid>22c61b7a-3ae7-49af-be91-f47c2961eb4b</webElementGuid>
+      <webElementGuid>1b004bb0-75c0-49b3-adc9-f7014ad73975</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>8865fec2-0946-4090-958f-9137c96222cc</webElementGuid>
+      <webElementGuid>0a114e5b-0563-4e64-8400-aea1db970dd5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;txt-username&quot;)</value>
-      <webElementGuid>53598fe2-a4bf-40c6-b5c3-a9b555da2907</webElementGuid>
+      <webElementGuid>1236557b-76f7-40db-a105-8fad34f5b178</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='txt-username']</value>
-      <webElementGuid>0ba0be4f-8558-4ff5-bdf1-8ad4c12e911c</webElementGuid>
+      <webElementGuid>929a30be-7bfc-4621-9f6d-68f83175d7a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='login']/div/div/div[2]/form/div[2]/div/input</value>
-      <webElementGuid>fc5c9058-ebcb-43d1-b03d-25f7ad20a8f1</webElementGuid>
+      <webElementGuid>d36bf118-4696-4893-9262-e290be63a8f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>d6577d80-c5a2-41d4-8afb-cf88565599c1</webElementGuid>
+      <webElementGuid>8b374c71-b7e7-4324-8e8a-18b16da270eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'txt-username' and @name = 'username' and @placeholder = 'Username']</value>
-      <webElementGuid>8fb22968-7aea-4cf6-8a79-9d766420ebfe</webElementGuid>
+      <webElementGuid>e007406b-8f4b-4ba2-b2ef-97f6bdad575c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
