@@ -48,7 +48,7 @@ WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/butto
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_CURA Healthcare Service/h2_Appointment Confirmation'), 'Appointment Confirmation')
 
-WebUI.takeElementScreenshot(findTestObject('Page_CURA Healthcare Service/h2_Appointment Confirmation'))
+WebUI.takeElementScreenshotAsCheckpoint('Appoiment conformation', findTestObject('Page_CURA Healthcare Service/h2_Appointment Confirmation'))
 
 WebUI.closeBrowser()
 

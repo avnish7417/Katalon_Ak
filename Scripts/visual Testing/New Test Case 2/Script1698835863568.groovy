@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/inp
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Password_password'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
 
-WebUI.takeElementScreenshot(findTestObject('Page_CURA Healthcare Service/input_Password_password'))
+WebUI.takeElementScreenshotAsCheckpoint('Password', findTestObject('Page_CURA Healthcare Service/input_Password_password'))
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
 
