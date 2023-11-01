@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint_4</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/New Test Data_1</source-url>
+   </source-info>
+   <taken-date>2023-10-31T14:46:55.016</taken-date>
+   <column-names>
+      <column-name>Username</column-name>
+      <column-name>Password</column-name>
+      <column-name>Confirm</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Avnish",
+      "checked": true
+    },
+    {
+      "value": "ThisIsNotAPassword",
+      "checked": false
+    },
+    {
+      "value": "Appointment Confirmation",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "",
+      "checked": false
+    },
+    {
+      "value": "",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
