@@ -6,12 +6,12 @@
    <elementGuidId>a8fd4125-db43-43f1-ac81-0479991af5e8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>svg.rct-icon.rct-icon-uncheck</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/preceding::*[name()='svg'][2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Store API'])[1]/following::*[name()='svg'][4]</value>
+         <key>CSS</key>
+         <value>svg.rct-icon.rct-icon-uncheck</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

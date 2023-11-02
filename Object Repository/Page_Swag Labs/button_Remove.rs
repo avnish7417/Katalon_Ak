@@ -6,12 +6,11 @@
    <elementGuidId>cb987d05-b021-4e02-9058-b6e14a8bd0df</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::button[1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='remove-test.allthethings()-t-shirt-(red)']</value>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
