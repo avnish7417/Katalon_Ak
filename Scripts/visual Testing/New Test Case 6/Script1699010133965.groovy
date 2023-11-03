@@ -25,7 +25,7 @@ WebUI.setText(findTestObject('Object Repository/Page_DEMOQA/input_Full Name_user
 
 WebUI.setText(findTestObject('Object Repository/Page_DEMOQA/input_Email_userEmail'), 'asassas')
 
-WebUI.takeElementScreenshot(findTestObject('Page_DEMOQA/input_Full Name_userName'))
+WebUI.takeElementScreenshotAsCheckpoint('browser', findTestObject('Page_DEMOQA/input_Email_userEmail'))
 
 WebUI.closeBrowser()
 

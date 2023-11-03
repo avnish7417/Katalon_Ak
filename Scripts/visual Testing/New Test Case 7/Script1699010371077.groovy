@@ -27,7 +27,7 @@ WebUI.click(findTestObject('Object Repository/Page_DEMOQA/label_Yes'))
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_DEMOQA/p_You have selected Yes'), 'You have selected Yes')
 
-WebUI.takeScreenshot()
+WebUI.takeElementScreenshotAsCheckpoint('browser 1', findTestObject('Page_DEMOQA/p_You have selected Yes'))
 
 WebUI.closeBrowser()
 

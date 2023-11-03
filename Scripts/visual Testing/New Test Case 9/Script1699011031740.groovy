@@ -26,7 +26,7 @@ WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Sel
 WebUI.setText(findTestObject('Object Repository/Page_Selenium Playground  LambdaTest/input_Data List Filter_input-search'), 
     'manager')
 
-WebUI.takeElementScreenshot(findTestObject('Page_Selenium Playground  LambdaTest/div_Company Name Pearce Workwear LtdName Ca_1af5db'))
+WebUI.takeElementScreenshotAsCheckpoint('brower 3', findTestObject('Page_Selenium Playground  LambdaTest/input_Data List Filter_input-search'))
 
 WebUI.closeBrowser()
 

@@ -21,8 +21,6 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.lambdatest.com/selenium-playground/')
 
-WebUI.takeFullPageScreenshot()
-
 WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/a_Javascript Alerts'))
 
 WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/button_Click Me'))
@@ -32,6 +30,8 @@ WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Sel
 WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/button_Click Me'))
 
 WebUI.click(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/button_Click Me'))
+
+WebUI.takeElementScreenshotAsCheckpoint('browser 4', findTestObject('Page_Selenium Grid Online  Run Selenium Tes_77a03b/button_Click Me'))
 
 WebUI.closeBrowser()
 

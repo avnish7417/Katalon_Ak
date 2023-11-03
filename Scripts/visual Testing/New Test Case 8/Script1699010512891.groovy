@@ -24,7 +24,7 @@ WebUI.navigateToUrl('https://www.lambdatest.com/selenium-playground/')
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Selenium Grid Online  Run Selenium Tes_77a03b/h1_Selenium Playground'), 
     'Selenium Playground')
 
-WebUI.takeElementScreenshot(findTestObject('Page_Selenium Grid Online  Run Selenium Tes_77a03b/h1_Selenium Playground'))
+WebUI.takeElementScreenshotAsCheckpoint('browse 2', findTestObject('Page_Selenium Grid Online  Run Selenium Tes_77a03b/h1_Selenium Playground'))
 
 WebUI.closeBrowser()
 
