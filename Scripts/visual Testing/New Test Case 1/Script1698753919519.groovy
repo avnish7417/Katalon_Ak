@@ -35,7 +35,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Se
 
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
 
-WebUI.takeElementScreenshotAsCheckpoint('Login_conformation', findTestObject(null))
+WebUI.takeElementScreenshotAsCheckpoint('Login_conformation', findTestObject('Page_CURA Healthcare Service/button_Login'))
 
 WebUI.closeBrowser()
 
