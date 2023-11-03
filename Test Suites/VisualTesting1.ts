@@ -33,6 +33,13 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
+      <guid>e78d460f-1302-4fb5-80ea-cdfe89546053</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/visual Testing/New Test Case 4</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
       <guid>1d3ad938-64dc-4f29-833f-668f1d33fbb8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
