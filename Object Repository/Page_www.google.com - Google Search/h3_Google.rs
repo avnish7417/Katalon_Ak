@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Google</name>
+   <tag></tag>
+   <elementGuidId>6e7f09a3-29a9-483f-812a-33c7010633a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.LC20lb.MBeuO.DKV0Md</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rso']/div/div/div/div/div/div/span/a/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>6e2f9112-da01-4ef3-95ac-f8b6a0ebc2a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LC20lb MBeuO DKV0Md</value>
+      <webElementGuid>06e05e80-0e14-4bfe-90fb-257d82526dc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Google</value>
+      <webElementGuid>2b51a272-30be-4a90-8aa7-5c116485592e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rso&quot;)/div[@class=&quot;MjjYud&quot;]/div[@class=&quot;g Ww4FFb vt6azd tF2Cxc asEBEc&quot;]/div[@class=&quot;N54PNb BToiNc cvP2Ce&quot;]/div[@class=&quot;kb0PBd cvP2Ce jGGQ5e&quot;]/div[@class=&quot;yuRUbf&quot;]/div[1]/span[1]/a[1]/h3[@class=&quot;LC20lb MBeuO DKV0Md&quot;]</value>
+      <webElementGuid>1610b770-f0c1-4e77-98c6-a5e94c1bddae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rso']/div/div/div/div/div/div/span/a/h3</value>
+      <webElementGuid>890eac06-7834-422b-9129-6adffb724e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Results'])[1]/following::h3[1]</value>
+      <webElementGuid>c02b9694-2f52-4fdf-86a7-b898f4f42b76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms'])[1]/following::h3[1]</value>
+      <webElementGuid>9bbbae50-be0b-4f89-be56-ffdf5f7a1f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[2]/preceding::h3[1]</value>
+      <webElementGuid>a4943867-9ac2-44c1-ad08-0917c187aac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://www.google.com'])[1]/preceding::h3[1]</value>
+      <webElementGuid>a93cd680-e352-43ad-8ee0-5508cab01a07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Google']/parent::*</value>
+      <webElementGuid>7990e026-c9c4-41b4-8cd6-072872d6cedd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>65dd1703-a8c2-4d84-b243-3ea42589f4b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Google' or . = 'Google')]</value>
+      <webElementGuid>7baf8345-8b08-40fe-b1f7-dea91e0ef3c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

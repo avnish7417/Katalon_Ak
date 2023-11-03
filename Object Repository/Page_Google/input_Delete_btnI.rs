@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>input_Delete_btnI</name>
    <tag></tag>
-   <elementGuidId>85cf0710-b2f4-48c0-bbbb-0d8594c3a2f8</elementGuidId>
+   <elementGuidId>eadf42b5-98e1-497c-b205-9db8c7b44970</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#txt-password</value>
+         <value>div.FPdoLc.lJ9FBc > center > input[name=&quot;btnI&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='txt-password']</value>
+         <value>(//input[@name='btnI'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,94 +22,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ccbd9895-1534-4356-a208-f34ef5078b4e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>c2083ab3-4846-4c81-bce1-679222f1df31</webElementGuid>
+      <webElementGuid>ca1d1b2e-5c50-460f-8937-6773f9e4b54e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>7ce0686b-26e7-45a3-b01c-56369b0b81e5</webElementGuid>
+      <value>RNmpXc</value>
+      <webElementGuid>86b4e734-d67f-4cbe-9885-3a4f16ce2ef3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>value</name>
       <type>Main</type>
-      <value>txt-password</value>
-      <webElementGuid>482b9467-434c-47af-915a-07d2d0f84cb5</webElementGuid>
+      <value>I'm Feeling Lucky</value>
+      <webElementGuid>bda7d7b6-e622-4862-a268-0cb8d12f47cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>I'm Feeling Lucky</value>
+      <webElementGuid>1cba2e48-c1a3-4356-bbbe-f2d64b4aabc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>d04ef7b6-f7d1-43b4-beee-60cc20506e14</webElementGuid>
+      <value>btnI</value>
+      <webElementGuid>d1d5987b-1cd5-4dc6-8195-bfdc91f3e499</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>type</name>
       <type>Main</type>
-      <value>Password</value>
-      <webElementGuid>54a00b3b-3a01-43b8-9980-cffffad8c92d</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>13fe9de4-7051-42b6-ac52-8ac68eda4146</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
+      <name>jsaction</name>
       <type>Main</type>
-      <value>off</value>
-      <webElementGuid>bcb0506e-e6b8-48c3-8598-58638aea8a10</webElementGuid>
+      <value>trigger.kWlxhc</value>
+      <webElementGuid>2790a2b3-2934-453f-a5d0-d96db4d1f043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ved</name>
+      <type>Main</type>
+      <value>0ahUKEwj6i97S0aeCAxWjr1YBHewpAvcQ19QECBA</value>
+      <webElementGuid>06a016dc-8c6c-4dc7-84b3-06d3d8b10eda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;txt-password&quot;)</value>
-      <webElementGuid>8419d2c0-8bfe-44e2-a80d-39289d87608f</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;L3eUgb&quot;]/div[@class=&quot;o3j99 ikrT4e om7nvf&quot;]/form[1]/div[1]/div[@class=&quot;A8SBwf&quot;]/div[@class=&quot;FPdoLc lJ9FBc&quot;]/center[1]/input[@class=&quot;RNmpXc&quot;]</value>
+      <webElementGuid>ea65649f-c270-4c23-9d7d-4d036809aae7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='txt-password']</value>
-      <webElementGuid>91a9216a-c018-4b34-8ed0-6a144d7cf912</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//section[@id='login']/div/div/div[2]/form/div[3]/div/input</value>
-      <webElementGuid>f11fd95c-6ae7-404c-b7e5-81e532da220c</webElementGuid>
+      <value>(//input[@name='btnI'])[2]</value>
+      <webElementGuid>02be4718-1a18-441c-96e6-1aa201eb4a7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/input</value>
-      <webElementGuid>eebe940f-a726-4f5b-b0e8-c8ad4fae3c27</webElementGuid>
+      <value>//div[4]/center/input[2]</value>
+      <webElementGuid>2eae206c-54df-4b50-aa89-e5ff7abd4ebe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @id = 'txt-password' and @name = 'password' and @placeholder = 'Password']</value>
-      <webElementGuid>c5f0d59e-62d0-4c0b-86c8-8d834bfd70a3</webElementGuid>
+      <value>//input[@name = 'btnI' and @type = 'submit']</value>
+      <webElementGuid>817791c6-82bc-4f65-b66e-65bb5a6b0b67</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
