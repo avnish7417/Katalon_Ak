@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Input Form Submit</name>
+   <name>a_Javascript Alerts</name>
    <tag></tag>
-   <elementGuidId>f524cc4b-cbef-4836-8df2-5141dd66c267</elementGuidId>
+   <elementGuidId>cc17c7bf-0ceb-4b89-89a2-beb67cebd07a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__next']/div/section[2]/div/ul/li[20]/a</value>
+         <value>//div[@id='__next']/div/section[2]/div/ul/li[21]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9a082c6f-48e7-4699-90df-3f084cdba13c</webElementGuid>
+      <webElementGuid>2d1137f5-b1a7-4ca4-94d8-8159ca213b07</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://www.lambdatest.com/selenium-playground/input-form-demo</value>
-      <webElementGuid>83fec5fe-5880-4ac1-b5e9-ccbc7202ca9b</webElementGuid>
+      <value>https://www.lambdatest.com/selenium-playground/javascript-alert-box-demo</value>
+      <webElementGuid>6bb227b5-7dac-45bc-bb0d-05a7a9680805</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>class</name>
       <type>Main</type>
       <value>text-black text-size-14 hover:text-lambda-900 leading-relaxed</value>
-      <webElementGuid>b22a5bf2-25af-463c-a688-93e519d9ec50</webElementGuid>
+      <webElementGuid>154441d7-15a2-4284-96d1-251c4016baeb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Input Form Submit</value>
-      <webElementGuid>b4b5c650-fb17-477f-a69f-5e0efc2b92d5</webElementGuid>
+      <value>Javascript Alerts</value>
+      <webElementGuid>66280dd8-4814-41ec-be6d-31924ae5b4b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,86 +54,86 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;wrapper&quot;]/section[@class=&quot;mb-50&quot;]/div[@class=&quot;container__selenium&quot;]/ul[@class=&quot;list-disc pl-10 pb-30 grid grid-cols-4 w-full gap-10 mt-30 smtablet:grid-cols-1&quot;]/li[@class=&quot;pt-10&quot;]/a[@class=&quot;text-black text-size-14 hover:text-lambda-900 leading-relaxed&quot;]</value>
-      <webElementGuid>243f0699-5006-451a-b000-b48c4b41bdd1</webElementGuid>
+      <webElementGuid>a28176b6-1829-43b4-8405-90afdba43691</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__next']/div/section[2]/div/ul/li[20]/a</value>
-      <webElementGuid>3a03630e-2bda-4547-b2a9-c48e9f06f551</webElementGuid>
+      <value>//div[@id='__next']/div/section[2]/div/ul/li[21]/a</value>
+      <webElementGuid>8a933de7-99fb-4de5-a342-e99f4d9ca333</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Input Form Submit')]</value>
-      <webElementGuid>84361242-51be-4e91-a213-712e93cb1592</webElementGuid>
+      <value>//a[contains(text(),'Javascript Alerts')]</value>
+      <webElementGuid>b15b0ed6-79e0-4cd0-9cd3-af3bb0329a63</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='iFrame Demo'])[1]/following::a[1]</value>
-      <webElementGuid>f2cf8faa-2c78-4445-acbc-bb5ed7e201b3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Input Form Submit'])[1]/following::a[1]</value>
+      <webElementGuid>e0cb2782-1165-4ddd-b88b-95143f434345</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hover Demo'])[1]/following::a[2]</value>
-      <webElementGuid>1848d735-68ec-4322-a1e0-e1aa16e00cf6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iFrame Demo'])[1]/following::a[2]</value>
+      <webElementGuid>8b67c95b-f471-4cb0-96e0-6b525110833c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Javascript Alerts'])[1]/preceding::a[1]</value>
-      <webElementGuid>925f2c09-79b3-45a8-b253-9ef296625f3f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JQuery Date Picker'])[1]/preceding::a[1]</value>
+      <webElementGuid>202daf13-bdec-4fcd-8053-c38229d3606a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='JQuery Date Picker'])[1]/preceding::a[2]</value>
-      <webElementGuid>ef0cdcd4-1309-477f-8061-fab9ed952179</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JQuery Download Progress bars'])[1]/preceding::a[2]</value>
+      <webElementGuid>bf6bbfe3-ddc4-4580-a8d6-6a669be2b3bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Input Form Submit']/parent::*</value>
-      <webElementGuid>ea6f3bec-8c36-43bb-89c9-970404b0718d</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Javascript Alerts']/parent::*</value>
+      <webElementGuid>ac7ef5c5-e34d-47e8-b1ea-0b5f08006d2d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://www.lambdatest.com/selenium-playground/input-form-demo')]</value>
-      <webElementGuid>3d711ab3-9387-4420-9f2b-9513dfac3c3a</webElementGuid>
+      <value>//a[contains(@href, 'https://www.lambdatest.com/selenium-playground/javascript-alert-box-demo')]</value>
+      <webElementGuid>49f5f95e-fae4-4487-9d15-922b1d05b405</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[20]/a</value>
-      <webElementGuid>1607655b-c09a-4154-9f9c-5f9dae25b647</webElementGuid>
+      <value>//li[21]/a</value>
+      <webElementGuid>f22cbc53-2d7b-4575-b228-d08591dcaa29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://www.lambdatest.com/selenium-playground/input-form-demo' and (text() = 'Input Form Submit' or . = 'Input Form Submit')]</value>
-      <webElementGuid>0088e4e3-ed12-4abc-ab96-3219b73a0723</webElementGuid>
+      <value>//a[@href = 'https://www.lambdatest.com/selenium-playground/javascript-alert-box-demo' and (text() = 'Javascript Alerts' or . = 'Javascript Alerts')]</value>
+      <webElementGuid>9e15f841-9f5f-43ad-b2fa-233c2c00aa83</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

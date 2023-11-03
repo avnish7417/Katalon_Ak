@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Company Name Pearce Workwear LtdName Ca_1af5db</name>
+   <tag></tag>
+   <elementGuidId>cc648861-c6e9-454d-b21e-b1e45ab9af28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section[3]/div/div/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>64686aa4-c73e-4b7a-a4c1-f230eebdf56e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>info-block block-info clearfix</value>
+      <webElementGuid>1a8648de-6064-4935-85e0-019748f3c071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Company Name: Pearce Workwear LtdName: Catherine PearceTitle: Manager</value>
+      <webElementGuid>43846a4a-da2a-42b9-8fcc-5bd11b057711</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;mt-50&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex smtablet:block&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;learn_right&quot;]/div[@class=&quot;searchable-container grid grid-cols-1 sm:grid-cols-2 mb-30 gap-20 mt-20&quot;]/div[@class=&quot;smtablet:w-full items mb-10 smtablet:border-r-0&quot;]/div[@class=&quot;info-block block-info clearfix&quot;]</value>
+      <webElementGuid>2a92f151-c894-4afb-805b-17d11698a5c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section[3]/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>e5304f2a-a122-4adf-b913-4d9147c6e4bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name: Jonathan Oakes'])[1]/following::div[2]</value>
+      <webElementGuid>ab4ba022-8e8a-46fd-9d8b-a01aa17cff03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Name: Oakes Ltd'])[1]/following::div[2]</value>
+      <webElementGuid>e256269b-663a-49c9-894b-5814fa7de1f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>ad61b464-57fd-4b45-8ac8-9bd0d4fc44fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Company Name: Pearce Workwear LtdName: Catherine PearceTitle: Manager' or . = 'Company Name: Pearce Workwear LtdName: Catherine PearceTitle: Manager')]</value>
+      <webElementGuid>4e1dcc1f-04f0-4ee2-be4f-9c56619122ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

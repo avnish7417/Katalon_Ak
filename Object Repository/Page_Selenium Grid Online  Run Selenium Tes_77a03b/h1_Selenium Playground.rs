@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label_Yes</name>
+   <name>h1_Selenium Playground</name>
    <tag></tag>
-   <elementGuidId>78ceba4f-7656-454c-b131-725d3ad060ae</elementGuidId>
+   <elementGuidId>8cdde5f7-06e1-4647-8a1a-cf66b8ae5fce</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>label.custom-control-label</value>
+         <value>h1.text-size-50.text-black.font-bold</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[2]/label</value>
+         <value>//div[@id='__next']/div/section/div/h1</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,103 +21,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>label</value>
-      <webElementGuid>3d910a5f-1a74-45a5-bed7-1cbc27831766</webElementGuid>
+      <value>h1</value>
+      <webElementGuid>3f9cd130-4243-4875-be52-1457d97b74ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>custom-control-label</value>
-      <webElementGuid>e83561ea-c436-4803-861f-afdb541696dc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>for</name>
-      <type>Main</type>
-      <value>yesRadio</value>
-      <webElementGuid>2aeee0f2-0324-487a-9d3d-0ad22e906681</webElementGuid>
+      <value>text-size-50 text-black font-bold</value>
+      <webElementGuid>21ffe4a6-a8d9-4f5d-b6fc-440dc2c5c39e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Yes</value>
-      <webElementGuid>6ecb8f7f-4729-4af3-a2e0-71e3609715c4</webElementGuid>
+      <value>Selenium Playground</value>
+      <webElementGuid>2ddb0f30-e53b-45c1-9483-ab3a9d2b5c82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;body-height&quot;]/div[@class=&quot;container playgound-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 mt-4 col-md-6&quot;]/div[2]/div[@class=&quot;custom-control custom-radio custom-control-inline&quot;]/label[@class=&quot;custom-control-label&quot;]</value>
-      <webElementGuid>9e8d8c0c-16c4-4c08-b4db-f8fd277fc52f</webElementGuid>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;wrapper&quot;]/section[@class=&quot;sp__main&quot;]/div[@class=&quot;text-center pt-50&quot;]/h1[@class=&quot;text-size-50 text-black font-bold&quot;]</value>
+      <webElementGuid>32d228d9-97b3-452f-bac6-52720aa34ff2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[2]/label</value>
-      <webElementGuid>a4348d07-a97a-4be7-a5a9-67c5a5a6489e</webElementGuid>
+      <value>//div[@id='__next']/div/section/div/h1</value>
+      <webElementGuid>e9918301-b3e3-4e56-b49c-7ed10fe90492</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do you like the site?'])[1]/following::label[1]</value>
-      <webElementGuid>2c99503b-61f5-477c-849f-b1832fa4d85b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Started Free'])[1]/following::h1[1]</value>
+      <webElementGuid>7841a968-0a6e-48a2-9fb1-a9685c3eba4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Store API'])[1]/following::label[1]</value>
-      <webElementGuid>d5fa12c6-5e5a-4fc4-b3ae-64c41d6c1e30</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SCHEDULE DEMO'])[1]/following::h1[1]</value>
+      <webElementGuid>b2082811-92fb-4384-887b-c617a1475a5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Impressive'])[1]/preceding::label[1]</value>
-      <webElementGuid>bb9c81af-b5c7-4bfb-969c-f2a9eb96bf16</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajax Form Submit'])[1]/preceding::h1[1]</value>
+      <webElementGuid>253aa4fa-3466-47e1-9962-c6179a136ad0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::label[2]</value>
-      <webElementGuid>bee0b1c9-a00c-4b8f-a748-8ac34eceddb3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auto Healing'])[1]/preceding::h1[1]</value>
+      <webElementGuid>44b3a1ad-610e-4a82-a8b4-8178dbe06dc0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Yes']/parent::*</value>
-      <webElementGuid>519a21c1-3a09-42b3-8c77-0f1499197a79</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Selenium Playground']/parent::*</value>
+      <webElementGuid>58e84662-4703-43db-b125-3d990dfc2115</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//label</value>
-      <webElementGuid>83ee11f2-fdc2-43a3-b3c0-8024f580cb18</webElementGuid>
+      <value>//h1</value>
+      <webElementGuid>0bc47bcc-fced-4cdc-a006-941de877b6b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[(text() = 'Yes' or . = 'Yes')]</value>
-      <webElementGuid>dd56a294-924f-40cc-a379-41c2954ce961</webElementGuid>
+      <value>//h1[(text() = 'Selenium Playground' or . = 'Selenium Playground')]</value>
+      <webElementGuid>02d4128d-cbf7-4b19-8d48-921b937b1bdb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

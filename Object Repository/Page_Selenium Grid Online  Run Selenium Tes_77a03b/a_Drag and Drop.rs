@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>b1154011-26a7-4c9c-9c42-6166caab20e2</webElementGuid>
+      <webElementGuid>9100c271-fdd2-4995-ae09-84df40fc2d30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.lambdatest.com/selenium-playground/drag-and-drop-demo</value>
-      <webElementGuid>01bcbb11-2ad7-407d-856b-bdf79a87d0b2</webElementGuid>
+      <webElementGuid>67d3e0b2-4061-420b-b0ab-167a33c9ebde</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-black text-size-14 hover:text-lambda-900 leading-relaxed</value>
-      <webElementGuid>e02ad2de-0ccd-4222-a7c2-dac831eeae1a</webElementGuid>
+      <webElementGuid>89e9114f-4379-4ea2-acd7-785811156398</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Drag and Drop</value>
-      <webElementGuid>5ef1db99-dc33-4812-a479-cb8d4ec4ac5f</webElementGuid>
+      <webElementGuid>80943c18-eef8-4fa6-a814-24daa9440092</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;wrapper&quot;]/section[@class=&quot;mb-50&quot;]/div[@class=&quot;container__selenium&quot;]/ul[@class=&quot;list-disc pl-10 pb-30 grid grid-cols-4 w-full gap-10 mt-30 smtablet:grid-cols-1&quot;]/li[@class=&quot;pt-10&quot;]/a[@class=&quot;text-black text-size-14 hover:text-lambda-900 leading-relaxed&quot;]</value>
-      <webElementGuid>560b6d6b-4e6e-4e93-b09b-76ea492bbbde</webElementGuid>
+      <webElementGuid>0d4e392e-f74a-403b-9f08-19e8aea2d714</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/section[2]/div/ul/li[14]/a</value>
-      <webElementGuid>2bdcf277-01b6-48d6-a864-368d5f5f57ef</webElementGuid>
+      <webElementGuid>bb5d520f-de71-4771-b6e7-a8f4fc817279</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Drag and Drop')]</value>
-      <webElementGuid>44891440-6558-4f14-9f2f-d86df543a9c5</webElementGuid>
+      <webElementGuid>cac2095d-d60a-4962-b16a-e9205220d52f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag &amp; Drop Sliders'])[1]/following::a[1]</value>
-      <webElementGuid>beda999b-fbf4-4621-86ca-523ab3e8b96a</webElementGuid>
+      <webElementGuid>3af01a5b-b494-46a3-820f-d5fb1e7a09fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Download File Demo'])[1]/following::a[2]</value>
-      <webElementGuid>20e3b5cb-7254-4a30-b0de-87e48d64ea7d</webElementGuid>
+      <webElementGuid>accc3a03-aa1c-4335-bdfe-563b74d5f6e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynamic Data Loading'])[1]/preceding::a[1]</value>
-      <webElementGuid>0c145f84-defe-48bf-9042-3ad2cf0d0e21</webElementGuid>
+      <webElementGuid>49fbf503-5097-4cd4-922d-8e30992f79ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='File Download'])[1]/preceding::a[2]</value>
-      <webElementGuid>7f8d3e85-67cd-442d-8f0c-ddcce25149b7</webElementGuid>
+      <webElementGuid>cc7d4fa3-ec7f-41ca-89a8-40634f2629b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Drag and Drop']/parent::*</value>
-      <webElementGuid>ef0a9fe4-70b5-4791-9cc0-32a257ffeebe</webElementGuid>
+      <webElementGuid>22011585-cb96-4b5c-8521-3033b1554370</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://www.lambdatest.com/selenium-playground/drag-and-drop-demo')]</value>
-      <webElementGuid>1ecf12d6-e572-4742-ae59-c1e25df9aeee</webElementGuid>
+      <webElementGuid>0c3c55e0-4197-43af-8422-3f077aea7b29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[14]/a</value>
-      <webElementGuid>d8a2cc5d-b197-4f07-a92f-c31a9deeaa02</webElementGuid>
+      <webElementGuid>3abf0e50-962b-4f42-b7b9-999f88312ad6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://www.lambdatest.com/selenium-playground/drag-and-drop-demo' and (text() = 'Drag and Drop' or . = 'Drag and Drop')]</value>
-      <webElementGuid>dad3e3a6-e672-4b2c-800b-50ec69b727fb</webElementGuid>
+      <webElementGuid>5f319438-4239-4e4c-be66-3ea9a3ca2169</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

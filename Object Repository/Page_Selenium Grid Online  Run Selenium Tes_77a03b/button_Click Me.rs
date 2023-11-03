@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Click Me</name>
+   <tag></tag>
+   <elementGuidId>fc5325e9-50ba-4f61-9810-7f631221454f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0644c6ea-3bf9-49bc-8fbd-7a92e9064754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>14e877ed-9581-4735-b2f9-663fc9b9218f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-dark my-30 mx-10 hover:bg-lambda-900 hover:border-lambda-900</value>
+      <webElementGuid>046c2706-e9b3-43ab-9f01-eae86f6b2bd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click Me</value>
+      <webElementGuid>e9e1ef21-f596-45b5-8e5f-7e70913537ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;mt-50&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex smtablet:block&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;mt-30 rounded&quot;]/p[@class=&quot;text-gray-900 ml-10 text-size-16 mt-10 text-black font-bold&quot;]/button[@class=&quot;btn btn-dark my-30 mx-10 hover:bg-lambda-900 hover:border-lambda-900&quot;]</value>
+      <webElementGuid>b0513bdd-954c-4f06-865a-9f5af98f50f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>afb9c4f8-bdd8-4707-b829-841655f28b43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section[3]/div/div/div/div/p/button</value>
+      <webElementGuid>6669d182-af81-427f-b1ce-c4819c49c854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Javascript Alert Box Demo'])[1]/following::button[1]</value>
+      <webElementGuid>455e4bbb-f454-41f3-bdd7-4f61c7e71020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Started Free'])[1]/following::button[1]</value>
+      <webElementGuid>5979de72-3fa5-4fb0-b371-9f396429bb10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click Me'])[2]/preceding::button[1]</value>
+      <webElementGuid>6c7cbcd7-5da9-48d3-80a1-ed1d8d2cd176</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click Me'])[3]/preceding::button[2]</value>
+      <webElementGuid>c6d6575d-0fed-4383-be8e-2f7fb65fcd8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click Me']/parent::*</value>
+      <webElementGuid>ae647048-5fdd-414f-9e2c-fbf839f971bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/button</value>
+      <webElementGuid>b03f2b71-1b5a-4a6c-a6f4-5d1321a29b81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Click Me' or . = 'Click Me')]</value>
+      <webElementGuid>95dbb3af-b8bc-49ef-914e-9fcd9dd00e64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

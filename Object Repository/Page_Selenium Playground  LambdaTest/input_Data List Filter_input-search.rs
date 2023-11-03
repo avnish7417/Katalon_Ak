@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a74dcc1c-691f-49de-b10e-25cb025d769c</webElementGuid>
+      <webElementGuid>e98a2acd-0d2a-4ad6-aee6-eb87a241680a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>c9f90463-4ed8-41ef-b616-17b18476b7ca</webElementGuid>
+      <webElementGuid>ca474bc1-6726-4b96-8232-b9a7599369be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control border border-gray-400 rounded px-10 w-full h-35</value>
-      <webElementGuid>204092cd-6fe7-4aaa-a92a-2ac3adf7b026</webElementGuid>
+      <webElementGuid>69d9fd6b-4bea-49cd-9709-75f95161a091</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>input-search</value>
-      <webElementGuid>f64ebc36-eeaf-43b1-8cdf-4796d8e25153</webElementGuid>
+      <webElementGuid>974f6358-5984-44df-9185-a7b8fb1faf9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search Attendees...</value>
-      <webElementGuid>bc9c64a9-4615-412d-a92b-1d5769dad555</webElementGuid>
+      <webElementGuid>96dc3cbf-cc97-4d1e-b1dc-054bba10b29e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;input-search&quot;)</value>
-      <webElementGuid>a1216fe2-faf3-48d4-af71-3693609ce3ff</webElementGuid>
+      <webElementGuid>d5146cab-6093-481a-b224-0d823dd333ac</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input-search']</value>
-      <webElementGuid>c7c71302-9d3e-4fbd-b1ed-03ada8703d6f</webElementGuid>
+      <webElementGuid>f624beca-fa79-4423-be55-2e270e8aae70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/section[3]/div/div/div/div/input</value>
-      <webElementGuid>6eea2d09-739d-40ed-b97b-89066b073d81</webElementGuid>
+      <webElementGuid>588f098e-0150-42d2-a742-93548c2a1e43</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/input</value>
-      <webElementGuid>68989bb3-3157-4bc6-a3c8-e5456ec0205e</webElementGuid>
+      <webElementGuid>e2e962e1-bd2c-49fa-858f-aa3489ee886d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'search' and @id = 'input-search' and @placeholder = 'Search Attendees...']</value>
-      <webElementGuid>1207410c-e4b6-4259-a029-164085cba1a9</webElementGuid>
+      <webElementGuid>d7b136a7-0107-4735-915e-53ee7acb94e5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
