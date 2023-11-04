@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div > input.mr-10</value>
+         <value>input[name=&quot;prop&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='checkbox'])[2]</value>
+         <value>//input[@name='prop']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c48937c6-5b61-431c-88dc-413865c5668b</webElementGuid>
+      <webElementGuid>845e2062-4870-4774-82f7-4a88b5c9efdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>checkbox</value>
-      <webElementGuid>e3be537e-48d5-4303-bf08-2f2cc2263bd8</webElementGuid>
+      <value>radio</value>
+      <webElementGuid>50d18122-3f56-451b-8cc1-426e6cff2295</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,18 +38,66 @@
       <name>class</name>
       <type>Main</type>
       <value>mr-10</value>
-      <webElementGuid>b3bdfdd4-6af0-4773-92ca-e75f6aab8a81</webElementGuid>
+      <webElementGuid>eeb4068e-284d-45ec-a214-933ee5778900</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__next&quot;)/div[@class=&quot;wrapper&quot;]/section[@class=&quot;mt-30&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;smtablet:block&quot;]/div[@class=&quot;w-full px-15&quot;]/div[@class=&quot;mt-50 rounded w-full&quot;]/div[@class=&quot;pb-10&quot;]/div[1]/input[@class=&quot;mr-10&quot;]</value>
-      <webElementGuid>8a95cfd8-e715-4b0d-bdcb-f1a9266084dd</webElementGuid>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;wrapper&quot;]/section[@class=&quot;mt-30&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex smtablet:block&quot;]/div[@class=&quot;w-full px-15 smtablet:mt-20&quot;]/div[@class=&quot;mt-30 rounded&quot;]/div[@class=&quot;input-body px-10 py-20&quot;]/div[@class=&quot;flex smtablet:block&quot;]/div[@class=&quot;w-8/12 smtablet:w-full left-input mr-20 pr-30 smtablet:mr-0 smtablet:pr-0&quot;]/div[1]/label[@class=&quot;text-size-16 mt-10 text-black mr-20&quot;]/input[@class=&quot;mr-10&quot;]</value>
+      <webElementGuid>7ad0f556-0eab-4ea3-8ea4-134a04ba6275</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>RadioButton1</value>
+      <webElementGuid>13ffdd8a-45dd-4d03-bc9c-484cffb7d6f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>prop</value>
+      <webElementGuid>614da8db-f481-44e3-9fc4-3814a9033ca3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='prop']</value>
+      <webElementGuid>7ac4acb1-0774-4113-9652-4b3a7e74cafe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[2]/div/div/div/div[2]/div/div/div/div/label/input</value>
+      <webElementGuid>6d11e7f7-1904-4882-9369-b6e4192ca62e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/label/input</value>
+      <webElementGuid>da613c07-d521-4c0d-be32-6191104891c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio' and @name = 'prop']</value>
+      <webElementGuid>1fab8d7f-f5a1-4ef7-af62-76da4916575c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>

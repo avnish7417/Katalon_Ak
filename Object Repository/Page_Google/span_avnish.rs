@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>h3_We Care About Your Health</name>
+   <name>span_avnish</name>
    <tag></tag>
-   <elementGuidId>080733f3-862f-4189-998b-ddefa2fded6c</elementGuidId>
+   <elementGuidId>82eee9e1-eb40-4a67-9a57-89efe0af2589</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>h3</value>
+         <value>div.wM6W7d > span</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//header[@id='top']/div/h3</value>
+         <value>//div[@id='jZ2SBf']/div/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,87 +21,87 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h3</value>
-      <webElementGuid>57fa5b55-3937-4ff4-8300-2b4ed2d5ec1f</webElementGuid>
+      <value>span</value>
+      <webElementGuid>74e13e7e-0da2-4db1-a1af-f2d4217c9323</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>We Care About Your Health</value>
-      <webElementGuid>110afb17-5178-411f-a297-3498a91d66ff</webElementGuid>
+      <value>avnish</value>
+      <webElementGuid>6a01f670-664a-406b-929b-b24575ead0e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;top&quot;)/div[@class=&quot;text-vertical-center&quot;]/h3[1]</value>
-      <webElementGuid>de5e68f9-3458-4a21-96ff-e18cc5881b57</webElementGuid>
+      <value>id(&quot;jZ2SBf&quot;)/div[@class=&quot;wM6W7d&quot;]/span[1]</value>
+      <webElementGuid>edae8798-aaf8-4f45-b147-8fb7773aec77</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//header[@id='top']/div/h3</value>
-      <webElementGuid>a674ee69-6a23-456a-b3fe-123c485d2900</webElementGuid>
+      <value>//div[@id='jZ2SBf']/div/span</value>
+      <webElementGuid>45524778-8118-4165-8100-2fa6dd6f3a94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[2]/following::h3[1]</value>
-      <webElementGuid>203f3f18-51df-47be-9f8f-2ee4dca5e7f1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::span[11]</value>
+      <webElementGuid>a928d472-b520-447d-83f3-419e1374c3e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::h3[1]</value>
-      <webElementGuid>0f5b0c86-8e34-4aca-88ae-7877fc6d2972</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/following::span[11]</value>
+      <webElementGuid>521608fa-d95c-4f6e-a61a-8b52a63debe1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[1]/preceding::h3[1]</value>
-      <webElementGuid>3261acab-cd2e-452b-846d-6c95b5eb601b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indian actress and dancer'])[1]/preceding::span[1]</value>
+      <webElementGuid>cf9dd3bc-b132-4a62-96f9-7d8ebe409ec6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[3]/preceding::h3[1]</value>
-      <webElementGuid>bff984b3-2bd3-4134-b712-16530cc450cd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See more'])[1]/preceding::span[3]</value>
+      <webElementGuid>b8754776-3163-4481-975e-5e55ddd32156</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='We Care About Your Health']/parent::*</value>
-      <webElementGuid>b144cd6c-3e19-420d-9de0-4997c97182ea</webElementGuid>
+      <value>//*/text()[normalize-space(.)='avnish']/parent::*</value>
+      <webElementGuid>4505a65c-3d13-48e3-95f8-c3276966c12a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//h3</value>
-      <webElementGuid>18b7566d-457e-4ca0-9f4f-bcb4d666f834</webElementGuid>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>b24c1f5f-273d-4040-9f5f-4feb73103357</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h3[(text() = 'We Care About Your Health' or . = 'We Care About Your Health')]</value>
-      <webElementGuid>f6165566-15f0-486c-b755-5328d1baf40c</webElementGuid>
+      <value>//span[(text() = 'avnish' or . = 'avnish')]</value>
+      <webElementGuid>13be6a39-87a9-4aae-bbaf-a6442088e6d4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

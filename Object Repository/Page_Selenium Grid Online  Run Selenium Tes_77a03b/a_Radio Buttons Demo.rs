@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Make Appointment</name>
+   <name>a_Radio Buttons Demo</name>
    <tag></tag>
-   <elementGuidId>76d4dcec-dec9-41f8-ba76-fef1d08bbddd</elementGuidId>
+   <elementGuidId>326ce618-b989-4dff-80b5-68281a33dc02</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#btn-make-appointment</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='btn-make-appointment']</value>
+         <value>//div[@id='__next']/div/section[2]/div/ul/li[30]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,134 +22,118 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e70e4dd3-ea2d-4128-a862-fcb55440d484</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>btn-make-appointment</value>
-      <webElementGuid>285399a7-6b46-41fd-893b-cd014f2f4719</webElementGuid>
+      <webElementGuid>e9a92b40-9d39-4f41-aa4f-91c923650700</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>./profile.php#login</value>
-      <webElementGuid>b1eb63cc-8fb8-4f3a-a84b-8f44e109fcd7</webElementGuid>
+      <value>https://www.lambdatest.com/selenium-playground/radiobutton-demo</value>
+      <webElementGuid>2862e700-3593-4c27-946c-9edd83ef4227</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-dark btn-lg</value>
-      <webElementGuid>e2c1ae01-2632-4970-93e8-38cc0151fef3</webElementGuid>
+      <value>text-black text-size-14 hover:text-lambda-900 leading-relaxed</value>
+      <webElementGuid>dcb780b4-80fd-41c6-80be-f9b3a1b07608</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Make Appointment</value>
-      <webElementGuid>02ade904-c3e6-438f-bb26-22634cd21b10</webElementGuid>
+      <value>Radio Buttons Demo</value>
+      <webElementGuid>ceeefa66-2828-474b-9f8d-dc6ca7267428</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;btn-make-appointment&quot;)</value>
-      <webElementGuid>14da619a-947a-47f6-b9ab-c2698b2c07ab</webElementGuid>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;wrapper&quot;]/section[@class=&quot;mb-50&quot;]/div[@class=&quot;container__selenium&quot;]/ul[@class=&quot;list-disc pl-10 pb-30 grid grid-cols-4 w-full gap-10 mt-30 smtablet:grid-cols-1&quot;]/li[@class=&quot;pt-10&quot;]/a[@class=&quot;text-black text-size-14 hover:text-lambda-900 leading-relaxed&quot;]</value>
+      <webElementGuid>78289ca1-6259-48a8-b81d-93ef665e6ca2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//a[@id='btn-make-appointment']</value>
-      <webElementGuid>20cb4e0b-45e8-4ca3-9665-4fc392d60b3c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//header[@id='top']/div/a</value>
-      <webElementGuid>31a9d67b-169f-43f8-841c-8078a2399a05</webElementGuid>
+      <value>//div[@id='__next']/div/section[2]/div/ul/li[30]/a</value>
+      <webElementGuid>76d25499-1468-4206-89b7-0abf9ad44274</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Make Appointment')]</value>
-      <webElementGuid>d2ef6d6d-5c41-4024-9f8b-c83acf0e8aa9</webElementGuid>
+      <value>//a[contains(text(),'Radio Buttons Demo')]</value>
+      <webElementGuid>4b4df18a-9950-4f09-8f1b-b3c2b56fc464</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='We Care About Your Health'])[1]/following::a[1]</value>
-      <webElementGuid>c725db66-b77d-48ca-bb7e-24310ab5f90a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Progress Bar Modal'])[1]/following::a[1]</value>
+      <webElementGuid>b2c2edc8-86a5-4390-839f-9f0c424a62fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[2]/following::a[1]</value>
-      <webElementGuid>54374ffe-ae23-4ae4-802b-c87fbfa9a1ad</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overlapped Element'])[1]/following::a[2]</value>
+      <webElementGuid>7d8d9b1a-a8db-4414-bd42-c86745653272</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[3]/preceding::a[1]</value>
-      <webElementGuid>8f06396a-ec50-42c9-9d29-ab07291c72a3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redirection'])[1]/preceding::a[1]</value>
+      <webElementGuid>04530f51-ad11-41f2-88bb-ccf52c3dc43a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(678) 813-1KMS'])[1]/preceding::a[1]</value>
-      <webElementGuid>d3334b58-eebd-42f6-9dfd-29bb0372a648</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Dropdown List'])[1]/preceding::a[2]</value>
+      <webElementGuid>9fa9a9b5-39a5-42bc-a97a-8164ea621e26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Make Appointment']/parent::*</value>
-      <webElementGuid>cfe6b31f-d7b6-44b3-afad-975a3f8982db</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Radio Buttons Demo']/parent::*</value>
+      <webElementGuid>a3e06bc7-ec9b-4e99-903a-a392af7e61ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, './profile.php#login')]</value>
-      <webElementGuid>2c90d984-0ef6-4296-b123-094fe19e6ee8</webElementGuid>
+      <value>//a[contains(@href, 'https://www.lambdatest.com/selenium-playground/radiobutton-demo')]</value>
+      <webElementGuid>45a7e727-338b-4203-a0e0-3490943201c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/a</value>
-      <webElementGuid>ce35a7ef-0e7c-4118-89ef-0bfb635d1bfe</webElementGuid>
+      <value>//li[30]/a</value>
+      <webElementGuid>38b815af-4c0d-48ee-b509-9d7b7fd5e172</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'btn-make-appointment' and @href = './profile.php#login' and (text() = 'Make Appointment' or . = 'Make Appointment')]</value>
-      <webElementGuid>a090a198-2fed-4236-b380-39a950c73ada</webElementGuid>
+      <value>//a[@href = 'https://www.lambdatest.com/selenium-playground/radiobutton-demo' and (text() = 'Radio Buttons Demo' or . = 'Radio Buttons Demo')]</value>
+      <webElementGuid>ecfb0b30-c036-45a3-a7aa-88a4e337a53d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

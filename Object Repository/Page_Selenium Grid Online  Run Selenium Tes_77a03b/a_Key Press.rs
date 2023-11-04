@@ -6,12 +6,12 @@
    <elementGuidId>36019f23-38dc-48be-9de7-07d302236c3e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__next']/div/section[2]/div/ul/li[26]/a</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section[2]/div/ul/li[26]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>1ccea3d0-1175-45f0-a586-1b65e5973e91</webElementGuid>
+      <webElementGuid>b5844de2-270e-434c-8216-4a095215cb77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://www.lambdatest.com/selenium-playground/key-press</value>
-      <webElementGuid>d4b5667e-5c54-4ea6-a4bc-a69e103263b3</webElementGuid>
+      <webElementGuid>fda0579b-1369-474c-9028-5826f9ee91b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-black text-size-14 hover:text-lambda-900 leading-relaxed</value>
-      <webElementGuid>1c024f2b-587e-4264-bb83-f563b31fa548</webElementGuid>
+      <webElementGuid>b2c066a8-7b31-4661-987b-cddc08e3651e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Key Press</value>
-      <webElementGuid>a7af2bfb-9d32-44cf-adb1-437b64a48810</webElementGuid>
+      <webElementGuid>76a13518-9771-440d-9276-d1ab0046f0d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;wrapper&quot;]/section[@class=&quot;mb-50&quot;]/div[@class=&quot;container__selenium&quot;]/ul[@class=&quot;list-disc pl-10 pb-30 grid grid-cols-4 w-full gap-10 mt-30 smtablet:grid-cols-1&quot;]/li[@class=&quot;pt-10&quot;]/a[@class=&quot;text-black text-size-14 hover:text-lambda-900 leading-relaxed&quot;]</value>
-      <webElementGuid>c65f7055-4f14-4feb-a902-190bc4375f7e</webElementGuid>
+      <webElementGuid>9686a8f7-7e8d-4d7b-925b-41471bc1c3ae</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/section[2]/div/ul/li[26]/a</value>
-      <webElementGuid>0d6ff14b-4847-4508-9c82-4754fb155d66</webElementGuid>
+      <webElementGuid>09abeb7b-8f68-462d-a07a-427aa1728898</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Key Press')]</value>
-      <webElementGuid>eb8cd209-f85b-446b-b688-c92bfab5135e</webElementGuid>
+      <webElementGuid>b4a7f448-ea32-4cde-9e70-007fa644e9ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='JQuery Select dropdown'])[1]/following::a[1]</value>
-      <webElementGuid>593935cc-ea48-43c6-9c94-049648faf2a1</webElementGuid>
+      <webElementGuid>10bd730f-bf02-4b73-9ff6-6daf34502dd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='JQuery List Box'])[1]/following::a[2]</value>
-      <webElementGuid>76ee65de-923c-4dd5-bc52-f02038ec5f16</webElementGuid>
+      <webElementGuid>0c6e0960-3352-4029-b0d5-3d13d5099215</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nested Frames'])[1]/preceding::a[1]</value>
-      <webElementGuid>2ea20caf-85eb-4485-b97e-2352eab1a561</webElementGuid>
+      <webElementGuid>c5e8c043-8164-4389-a77c-4d08fe8ccacb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Overlapped Element'])[1]/preceding::a[2]</value>
-      <webElementGuid>c1ad4499-bb1a-4151-8650-79701d89953a</webElementGuid>
+      <webElementGuid>e420cc6a-c4cc-42e5-a554-edffe550f395</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Key Press']/parent::*</value>
-      <webElementGuid>42428f1c-ed90-4043-8c5c-aa1ef5d37012</webElementGuid>
+      <webElementGuid>13e81638-cd9e-495c-b091-d67ffa0de256</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://www.lambdatest.com/selenium-playground/key-press')]</value>
-      <webElementGuid>74638541-4c0e-400f-90d1-e55f15e6d5e3</webElementGuid>
+      <webElementGuid>b255ea2d-ff79-4958-bc52-655bca481d12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[26]/a</value>
-      <webElementGuid>71c79897-7428-4c46-a772-d5074979f51e</webElementGuid>
+      <webElementGuid>9b1ecb7b-213c-4723-9415-2f8d84b5c624</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://www.lambdatest.com/selenium-playground/key-press' and (text() = 'Key Press' or . = 'Key Press')]</value>
-      <webElementGuid>a732da7d-7f05-446f-9d34-b4b95bd91cc7</webElementGuid>
+      <webElementGuid>7d1aa063-9421-4b09-a744-a3d068870394</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
