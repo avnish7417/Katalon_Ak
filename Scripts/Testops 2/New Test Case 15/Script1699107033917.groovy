@@ -25,7 +25,5 @@ WebUI.setText(findTestObject('Object Repository/Page_Google/textarea__q'), 'avni
 
 WebUI.click(findTestObject('Object Repository/Page_Google/span_avnish'))
 
-WebUI.click(findTestObject('Object Repository/Page_avnish - Google Search/h3_Avnish Bajaj'))
-
 WebUI.closeBrowser()
 
